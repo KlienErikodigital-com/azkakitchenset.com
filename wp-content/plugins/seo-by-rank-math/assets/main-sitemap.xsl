@@ -118,7 +118,7 @@
 								This KML file contains <xsl:value-of select="count(kml:kml/kml:Document/kml:Folder/kml:Placemark)"/> Locations.
 							</p>
 							<p class="expl">
-								<a href="https://uncomplicated-emu-d17196.instawp.site/sitemap_index.xml">&#8592; Sitemap Index</a>							</p>
+								<a href="https://flourishing-leopard-6eee8f.instawp.site/sitemap_index.xml">&#8592; Sitemap Index</a>							</p>
 							<table id="sitemap" cellpadding="3">
 								<thead>
 									<tr>
@@ -213,7 +213,7 @@
 									This XML Sitemap contains <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong> URLs.								</p>
 
 								<p class="expl">
-									<a href="https://uncomplicated-emu-d17196.instawp.site/sitemap_index.xml">&#8592; Sitemap Index</a>								</p>
+									<a href="https://flourishing-leopard-6eee8f.instawp.site/sitemap_index.xml">&#8592; Sitemap Index</a>								</p>
 
 								<table id="sitemap" cellpadding="3">
 
